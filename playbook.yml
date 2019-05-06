@@ -6,4 +6,4 @@
       
     - name: get value
       debug:
-        msg: "The value is: {{ mysecret secret-value }}"
+        msg: "The value is: {{ mysecret }}"
